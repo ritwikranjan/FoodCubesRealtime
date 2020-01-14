@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Realtime</string>
+    <string name="action_signOut">Sign Out</string>
+    <string name="welcome">Welcome!!</string>
+    <string name="days">Days</string>
+    <string name="show_menu">Show Menu</string>
+    <string name="day_prompt">Select Day</string>
+    <string name="meal_prompt">Select Meal</string>
+    <string name="enter_menu">Enter Menu</string>
+    <string name="wednesday">Wednesday</string>
+    <string name="thursday">Thursday</string>
+    <string name="saturday">Saturday</string>
+    <string name="friday">Friday</string>
+    <string name="breakfast">Breakfast</string>
+    <string name="lunch">Lunch</string>
+    <string name="dinner">Dinner</string>
+    <string name="sunday">Sunday</string>
+    <string name="tuesday">Tuesday</string>
+    <string name="monday">Monday</string>
+
+
+    <string-array name="day_array">
+        <item>Select Day</item>
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+        <item>Sunday</item>
+    </string-array>
+    <string-array name="meal_array">
+        <item>Select Meal</item>
+        <item>Breakfast</item>
+        <item>Lunch</item>
+        <item>Dinner</item>
+    </string-array>
+</resources>

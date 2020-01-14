@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "266558421997",
+    "firebase_url": "https://foodcubes.firebaseio.com",
+    "project_id": "foodcubes",
+    "storage_bucket": "foodcubes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:266558421997:android:f97b9420a20c4f4aa4c5e4",
+        "android_client_info": {
+          "package_name": "com.foodcubes.realtime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "266558421997-togl60m5d7m4k2rvt31lbavrle0kmv8j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.foodcubes.realtime",
+            "certificate_hash": "7812c40844e64ad37ef8909306f0b7758526cc2b"
+          }
+        },
+        {
+          "client_id": "266558421997-734bpot53hlelvn0f6n8199g47d5tv53.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASLvwWtLsoHoZmNulegnDBtNY3JR3nFxw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "266558421997-734bpot53hlelvn0f6n8199g47d5tv53.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

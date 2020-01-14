@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">266558421997-734bpot53hlelvn0f6n8199g47d5tv53.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://foodcubes.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">266558421997</string>
+    <string name="google_api_key" translatable="false">AIzaSyASLvwWtLsoHoZmNulegnDBtNY3JR3nFxw</string>
+    <string name="google_app_id" translatable="false">1:266558421997:android:f97b9420a20c4f4aa4c5e4</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyASLvwWtLsoHoZmNulegnDBtNY3JR3nFxw</string>
+    <string name="google_storage_bucket" translatable="false">foodcubes.appspot.com</string>
+    <string name="project_id" translatable="false">foodcubes</string>
+</resources>
